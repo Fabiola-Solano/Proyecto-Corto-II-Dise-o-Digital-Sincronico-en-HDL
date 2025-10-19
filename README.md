@@ -1,4 +1,4 @@
-# Proyecto-Corto-II-Dise-o-digital-sincr-nico-en-HDL
+# Proyecto Corto II Diseño Digital Sincronico en HDL
 **Curso:** EL-3307 Diseño Lógico  
 **Institución:** Instituto Tecnológico de Costa Rica  
 **Semestre:** II Semestre 2025  
