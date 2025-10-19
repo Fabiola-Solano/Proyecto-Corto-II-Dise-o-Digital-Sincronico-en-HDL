@@ -33,11 +33,11 @@ Desarrollar un sistema digital sincrónico en HDL capaz de capturar, procesar y 
 ## 3. Planteamiento del problema
 
 Se requiere la construcción de un sistema digital que:  
-✔ Reciba dos números decimales usando un teclado hexadecimal (0–9, A–F).  
-✔ Elimine el rebote mecánico y sincronice las entradas con un reloj de 27 MHz.  
-✔ Almacene cada número mediante registros y permita operar en formato de calculadora tradicional.  
-✔ Sume ambos números sin signo.  
-✔ Muestre los números ingresados y el resultado en displays de 7 segmentos multiplexados.
+a) Reciba dos números decimales usando un teclado hexadecimal (0–9, A–F).  
+b) Elimine el rebote mecánico y sincronice las entradas con un reloj de 27 MHz.  
+c) Almacene cada número mediante registros y permita operar en formato de calculadora tradicional.  
+d) Sume ambos números sin signo.  
+e) Muestre los números ingresados y el resultado en displays de 7 segmentos multiplexados.
 
 ---
 
@@ -129,7 +129,7 @@ El sistema se divide en tres subsistemas principales:
 
 ---
 
-## 👥 10. Créditos
+## 10. Créditos
 
 Proyecto realizado por:  
 - **José Andrés Acosta Sosa**  
